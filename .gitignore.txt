@@ -1,0 +1,6 @@
+# Editor artifacts - IntelliJ
+.idea/
+*.iml
+
+# Build artifacts
+/target/
