@@ -25,3 +25,8 @@ Test to Verify Financial Review Page Popup
 2. Feature file created in Gherkin language.
 3. Page Object Model design pattern used.
 4. Test results generated using cucumber html report.
+
+##Other Files To Read:
+1. Software Testing Principles and Ideas.ppt
+2. Scenarios.md
+3. Discrepancies.md
