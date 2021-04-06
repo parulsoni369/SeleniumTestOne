@@ -11,8 +11,7 @@ import io.cucumber.junit.Cucumber;
                 "junit:target/cucumber-reports/Cucumber.xml"
         },
         features = {"src/test/java/FinancialReviewPackage/Features/"},
-//        tags = {"@test_baseline"},
-        tags = {"@test1"},
+        tags = {"@testFR"},
         glue = "FinancialReviewPackage/StepDefinitions",
         monochrome = true
 )

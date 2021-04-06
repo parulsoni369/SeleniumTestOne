@@ -16,7 +16,7 @@ public class CucumberReport {
         List<String> jsonFiles = new ArrayList<>();
         jsonFiles.add("target/cucumber-reports/CucumberTestReport.json");
 
-        String projectName = "Author Automation";
+        String projectName = "FR Automation By Parul Soni";
         Configuration configuration = new Configuration(reportOutputDirectory, projectName);
 
         configuration.addClassifications("Browser", "Chrome");
